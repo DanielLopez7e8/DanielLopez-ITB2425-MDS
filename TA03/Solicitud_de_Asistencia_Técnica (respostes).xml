@@ -17,7 +17,7 @@
             <Área>Oficina 1</Área>
             <DescripciónProblema>No se enciende la pantalla</DescripciónProblema>
             <Imagen estado="no_disponible" />
-           </Detalles>
+         </Detalles>
          <NivelUrgéncia>Muy Urgente</NivelUrgéncia>
             <AccionesPrevias>No</AccionesPrevias>
          </InfoIncidencia>
