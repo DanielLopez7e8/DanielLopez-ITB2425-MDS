@@ -1,0 +1,33 @@
+Marca de temps,Email,Información respecto la protección de datos,Nombre y Apellidos,Fecha de la Incidencia,Tipos de Incidencia,"Departamento / Área
+Consultar el cartel del departamento o área","Tipo de Equipo Afectado
+Detalles del Equipo (consultar identificador)",Descripción del problema,"Adjuntar Imagen del Problema 
+(Si se requiere)","Nivel de Urgencia
+Urgencia
+· Muy Urgente: Imposibilita el trabajo diario
+· Urgente: Dificulta el trabajo diario
+· Poco Urgente: Afecta ligeramente en el trabajo","Acciones Previas
+¿Se han tomado medidas previas?"
+04/10/2024 8:37:30,juan@gmail.com,He leído la información relativa sobre la protección de datos,Juan Gimenez,04/11/2024 11:11:00,Equipo (Fallo),Oficina 1,Ordenador,"No se enciende la pantalla
+",,Muy Urgente,No
+04/10/2024 8:43:22,PolMarquez@gmail.com,He leído la información relativa sobre la protección de datos,Pol Marquez,11/04/2020 14:15:00,Sistema de Fichaje,Taller,Pantalla,No se enciende la pantalla,,Muy Urgente,No
+04/10/2024 8:43:55,JasonGuiterrez@gmail.com,He leído la información relativa sobre la protección de datos,Jason Guiterrez,04/10/2024 8:30:00,Equipo (Fallo),Servidores,Disipadores de calor,Falla el disipador,,Muy Urgente,Lo desconozco
+04/10/2024 8:44:04,lucassanches@gmail.com,He leído la información relativa sobre la protección de datos,Lucas Sanches,20/06/2005 20:45:00,Equipo (Petición de cambio),Oficina Programación,23DFS14,No funciona el Maouse,,Urgente,NO
+04/10/2024 9:07:42,andresparez@gmail.com,He leído la información relativa sobre la protección de datos,Andres Perez,05/06/2010 12:35:00,Equipo (Fallo),Oficina de RRHH,No enciende el equipo,no enciende la torre,,Urgente,"SI,pero sigue con el problema "
+04/10/2024 9:08:07,AlbertoSuarez@gmail.com,He leído la información relativa sobre la protección de datos,Alberto Suarez,06/12/2024 11:11:00,Sistema de Fichaje,Oficina 1,Falla el Raton,No va el raton,,Urgente,No
+04/10/2024 9:09:55,SusanaGimenez@gmail.com,He leído la información relativa sobre la protección de datos,Susana Gimenez,04/06/2023 2:12:00,Equipo (Fallo),Oficina 5,Teclado,No funciona la tecla enter,,Muy Urgente,No
+04/10/2024 9:10:14,RosaSanchez@gmail.com,He leído la información relativa sobre la protección de datos,Rosa Sanchez,03/10/2024 9:07:00,Red,Oficina,El switch,El switch no funciona,,Muy Urgente,No
+04/10/2024 9:11:43,Kikomatamoros@gmail.com,He leído la información relativa sobre la protección de datos,Kiko Matamoros,20/02/2005 9:15:00,Red,Oficina 1,Ordenador,Falla la red dando lagazos,,Poco Urgente,No
+04/10/2024 9:12:21,jeremyparucho@gmail.com,He leído la información relativa sobre la protección de datos,Jeremy Parucho,30/12/2009 23:45:00,Red,Oficina administracion ,23JG54F,No conecta a la red ,,Urgente,no
+04/10/2024 9:13:16,PabloFernandez@gmail.com,He leído la información relativa sobre la protección de datos,Pablo Fernández,02/09/2023 9:30:00,Caida Total,Edificio 3,Todos los equipos conectados a la red,Ha caído la red ,,Muy Urgente,No
+04/10/2024 9:13:50,patricioperez@gmail.com,He leído la información relativa sobre la protección de datos,Patricio Perez,16/04/2024 20:20:00,"Dispositivo Visualización (Pantalla, Proyector,...)",Oficina 5,La pantalla,La pantalla tiene una linea en medio,https://formfacade.com/uploaded/1FAIpQLSdyTEsrZ2MmTw2sTyOo80NJtrdXrPjCOMdBXsAwzz86MB_mRA/-O8LMlrwSSjH0DRrF8E7/859372327/images.jpeg,Poco Urgente,No
+04/10/2024 9:15:05,juanjose@gmail.com,He leído la información relativa sobre la protección de datos,Juan Jose,28/12/2015 11:22:00,Programa (Actualización / pedir cambio /requerimiento ),Oficina de consulta,3454dvg,Actualizar el programa,,Poco Urgente,no
+04/10/2024 9:15:52,LauraTodoroki@outlook.com,He leído la información relativa sobre la protección de datos,Laura Todoroki,20/11/2023 20:45:00,Sistema de Fichaje,Oficina 2,Fichaje,No me ficha,,Poco Urgente,No
+04/10/2024 9:16:48,victortoledo@hotmail.com,He leído la información relativa sobre la protección de datos,Victor Toledo,05/12/2005 6:05:00,"Dispositivo Visualización (Pantalla, Proyector,...)",oficina de reuniones ,56s28de,Cambiar el proyector ,,Poco Urgente,NO 
+04/10/2024 9:17:08,Tinahernandez@outlook.com,He leído la información relativa sobre la protección de datos,Tina Hernandez,07/03/2000 12:59:00,Programa (Actualización / pedir cambio /requerimiento ),Oficina 2,PC,Me pide actualizacion de sistema,,Poco Urgente,No
+04/10/2024 9:18:16,Pedrosanchez@outlook.com,He leído la información relativa sobre la protección de datos,Pedro Sanchez,02/06/2024 2:04:00,Sistema de Fichaje,Oficina 5,Maquina FIchaje,No ficha,,Poco Urgente,No
+04/10/2024 9:18:22,RobertoJimenez@gmail.com,He leído la información relativa sobre la protección de datos,RobertoJimenez,05/11/2023 8:00:00,Programa (Actualización / pedir cambio /requerimiento ),Oficina 33,Ordenador de la oficina 33,Sistema operativo windows xp desactualizado,https://formfacade.com/uploaded/1FAIpQLSdyTEsrZ2MmTw2sTyOo80NJtrdXrPjCOMdBXsAwzz86MB_mRA/-O8LNBi0Wmeup1X0hxDO/859372327/windows-xp.jpg,Poco Urgente,No
+04/10/2024 9:19:10,kristianserrano@yahoot.com,He leído la información relativa sobre la protección de datos,Kristian Serrano,10/05/2006 5:17:00,Equipo (Fallo),Oficina de RRHH,655DEEV,No enciende la pc,,Muy Urgente,no
+04/10/2024 9:20:16,Victornaranjo@outlook.es,He leído la información relativa sobre la protección de datos,Victor Naranjo,09/05/2000 6:15:00,Programas (fallos),Oficina 5,Ordenador Windows xp,No se me abre el paint,,Poco Urgente,No
+04/10/2024 9:20:57,Rigomez@gmail.com,He leído la información relativa sobre la protección de datos,Rigoberto Gomez,16/12/2023 9:33:00,Programas (fallos),Oficina 21,Programa docs,No funciona me sale error,,Urgente,No
+04/10/2024 9:22:47,cristiangabriel@gmail.com,He leído la información relativa sobre la protección de datos,Cristian Gabriel ,15/02/2009 7:45:00,"Dispositivo Visualización (Pantalla, Proyector,...)",Oficina de RRHH,5FS36SV,El proyector no funciona ,,Poco Urgente,SI
+04/10/2024 9:23:28,SusoHernandez@gmail.com,He leído la información relativa sobre la protección de datos,Suso Hernandez,01/05/2012 8:00:00,Sistema de Fichaje,Edificio 2,Sistema de fichaje,No funciona el sistema de fichaje,,Muy Urgente,si

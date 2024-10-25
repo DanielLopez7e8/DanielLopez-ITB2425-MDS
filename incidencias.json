@@ -7,8 +7,8 @@
         "Equipo Afectado": "Ordenador",
         "Área": "Oficina 1",
         "Descripción": "No se enciende la pantalla",
-        "Acciones Previas": "No",
-        "Nivel de Urgencia": "Muy Urgente"
+        "Nivel de Urgencia": "Muy Urgente",
+        "Acciones Previas": "No"
     },
     {
         "Email": "PolMarquez@gmail.com",
@@ -18,8 +18,8 @@
         "Equipo Afectado": "Pantalla",
         "Área": "Taller",
         "Descripción": "No se enciende la pantalla",
-        "Acciones Previas": "No",
-        "Nivel de Urgencia": "Muy Urgente"
+        "Nivel de Urgencia": "Muy Urgente",
+        "Acciones Previas": "No"
     },
     {
         "Email": "JasonGuiterrez@gmail.com",
@@ -29,8 +29,8 @@
         "Equipo Afectado": "Disipadores de calor",
         "Área": "Servidores",
         "Descripción": "Falla el disipador",
-        "Acciones Previas": "Lo desconozco",
-        "Nivel de Urgencia": "Muy Urgente"
+        "Nivel de Urgencia": "Muy Urgente",
+        "Acciones Previas": "Lo desconozco"
     },
     {
         "Email": "lucassanches@gmail.com",
@@ -40,8 +40,8 @@
         "Equipo Afectado": "23DFS14",
         "Área": "Oficina Programación",
         "Descripción": "No funciona el Maouse",
-        "Acciones Previas": "No",
-        "Nivel de Urgencia": "Urgente"
+        "Nivel de Urgencia": "Urgente",
+        "Acciones Previas": "No"
     },
     {
         "Email": "andresparez@gmail.com",
@@ -51,8 +51,8 @@
         "Equipo Afectado": "No enciende el equipo",
         "Área": "Oficina de RRHH",
         "Descripción": "No enciende la torre",
-        "Acciones Previas": "Sí, pero sigue con el problema",
-        "Nivel de Urgencia": "Urgente"
+        "Nivel de Urgencia": "Urgente",
+        "Acciones Previas": "Sí, pero sigue con el problema"
     },
     {
         "Email": "AlbertoSuarez@gmail.com",
@@ -62,8 +62,8 @@
         "Equipo Afectado": "Falla el Ratón",
         "Área": "Oficina 1",
         "Descripción": "No va el ratón",
-        "Acciones Previas": "No",
-        "Nivel de Urgencia": "Urgente"
+        "Nivel de Urgencia": "Urgente",
+        "Acciones Previas": "No"
     },
     {
         "Email": "SusanaGimenez@gmail.com",
@@ -73,8 +73,8 @@
         "Equipo Afectado": "Teclado",
         "Área": "Oficina 5",
         "Descripción": "No funciona la tecla enter",
-        "Acciones Previas": "No",
-        "Nivel de Urgencia": "Muy Urgente"
+        "Nivel de Urgencia": "Muy Urgente",
+        "Acciones Previas": "No"
     },
     {
         "Email": "RosaSanchez@gmail.com",
@@ -84,8 +84,8 @@
         "Equipo Afectado": "El switch",
         "Área": "Oficina",
         "Descripción": "El switch no funciona",
-        "Acciones Previas": "No",
-        "Nivel de Urgencia": "Muy Urgente"
+        "Nivel de Urgencia": "Muy Urgente",
+        "Acciones Previas": "No"
     },
     {
         "Email": "Kikomatamoros@gmail.com",
@@ -95,8 +95,8 @@
         "Equipo Afectado": "Ordenador",
         "Área": "Oficina 1",
         "Descripción": "Falla la red dando lagazos",
-        "Acciones Previas": "No",
-        "Nivel de Urgencia": "Poco Urgente"
+        "Nivel de Urgencia": "Poco Urgente",
+        "Acciones Previas": "No"
     },
     {
         "Email": "jeremyparucho@gmail.com",
@@ -106,8 +106,8 @@
         "Equipo Afectado": "Router",
         "Área": "Oficina 3",
         "Descripción": "Problema con la red",
-        "Acciones Previas": "No",
-        "Nivel de Urgencia": "Urgente"
+        "Nivel de Urgencia": "Urgente",
+        "Acciones Previas": "No"
     },
     {
         "Email": "PabloFernandez@gmail.com",
@@ -117,8 +117,8 @@
         "Equipo Afectado": "Todos los equipos conectados a la red",
         "Área": "Edificio 3",
         "Descripción": "Ha caído la red",
-        "Acciones Previas": "No",
-        "Nivel de Urgencia": "Muy Urgente"
+        "Nivel de Urgencia": "Muy Urgente",
+        "Acciones Previas": "No"
     },
     {
         "Email": "patricioperez@gmail.com",
@@ -128,8 +128,8 @@
         "Equipo Afectado": "La pantalla",
         "Área": "Oficina 5",
         "Descripción": "La pantalla tiene una línea en medio",
-        "Acciones Previas": "No",
-        "Nivel de Urgencia": "Poco Urgente"
+        "Nivel de Urgencia": "Poco Urgente",
+        "Acciones Previas": "No"
     },
     {
         "Email": "juanjose@gmail.com",
@@ -139,8 +139,8 @@
         "Equipo Afectado": "3454dvg",
         "Área": "Oficina de consulta",
         "Descripción": "Actualizar el programa",
-        "Acciones Previas": "No",
-        "Nivel de Urgencia": "Poco Urgente"
+        "Nivel de Urgencia": "Poco Urgente",
+        "Acciones Previas": "No"
     },
     {
         "Email": "LauraTodoroki@outlook.com",
@@ -150,8 +150,8 @@
         "Equipo Afectado": "Fichaje",
         "Área": "Oficina 2",
         "Descripción": "No me ficha",
-        "Acciones Previas": "No",
-        "Nivel de Urgencia": "Poco Urgente"
+        "Nivel de Urgencia": "Poco Urgente",
+        "Acciones Previas": "No"
     },
     {
         "Email": "victortoledo@hotmail.com",
@@ -161,8 +161,8 @@
         "Equipo Afectado": "56s28de",
         "Área": "Oficina de reuniones",
         "Descripción": "Cambiar el proyector",
-        "Acciones Previas": "No",
-        "Nivel de Urgencia": "Poco Urgente"
+        "Nivel de Urgencia": "Poco Urgente",
+        "Acciones Previas": "No"
     },
     {
         "Email": "Tinahernandez@outlook.com",
@@ -172,8 +172,8 @@
         "Equipo Afectado": "PC",
         "Área": "Oficina 2",
         "Descripción": "Me pide actualización de sistema",
-        "Acciones Previas": "No",
-        "Nivel de Urgencia": "Poco Urgente"
+        "Nivel de Urgencia": "Poco Urgente",
+        "Acciones Previas": "No"
     },
     {
         "Email": "Pedrosanchez@outlook.com",
@@ -183,8 +183,8 @@
         "Equipo Afectado": "Máquina Fichaje",
         "Área": "Oficina 5",
         "Descripción": "No ficha",
-        "Acciones Previas": "No",
-        "Nivel de Urgencia": "Poco Urgente"
+        "Nivel de Urgencia": "Poco Urgente",
+        "Acciones Previas": "No"
     },
     {
         "Email": "RobertoJimenez@gmail.com",
@@ -194,8 +194,8 @@
         "Equipo Afectado": "Ordenador de la oficina 33",
         "Área": "Oficina 33",
         "Descripción": "Sistema operativo Windows XP desactualizado",
-        "Acciones Previas": "No",
-        "Nivel de Urgencia": "Poco Urgente"
+        "Nivel de Urgencia": "Poco Urgente",
+        "Acciones Previas": "No"
     },
     {
         "Email": "kristianserrano@yahoot.com",
@@ -205,8 +205,8 @@
         "Equipo Afectado": "No enciende la PC",
         "Área": "Oficina de RRHH",
         "Descripción": "No enciende la PC",
-        "Acciones Previas": "No",
-        "Nivel de Urgencia": "Muy Urgente"
+        "Nivel de Urgencia": "Muy Urgente",
+        "Acciones Previas": "No"
     },
     {
         "Email": "Victornaranjo@outlook.es",
@@ -216,8 +216,8 @@
         "Equipo Afectado": "Ordenador Windows XP",
         "Área": "Oficina 5",
         "Descripción": "No se me abre el Paint",
-        "Acciones Previas": "No",
-        "Nivel de Urgencia": "Poco Urgente"
+        "Nivel de Urgencia": "Poco Urgente",
+        "Acciones Previas": "No"
     },
     {
         "Email": "Rigomez@gmail.com",
@@ -227,8 +227,8 @@
         "Equipo Afectado": "Programa docs",
         "Área": "Oficina 21",
         "Descripción": "No funciona, me sale error",
-        "Acciones Previas": "No",
-        "Nivel de Urgencia": "Urgente"
+        "Nivel de Urgencia": "Urgente",
+        "Acciones Previas": "No"
     },
     {
         "Email": "cristiangabriel@gmail.com",
@@ -238,8 +238,8 @@
         "Equipo Afectado": "El proyector",
         "Área": "Oficina de RRHH",
         "Descripción": "El proyector no funciona",
-        "Acciones Previas": "No",
-        "Nivel de Urgencia": "Poco Urgente"
+        "Nivel de Urgencia": "Poco Urgente",
+        "Acciones Previas": "No"
     },
     {
         "Email": "SusoHernandez@gmail.com",
@@ -249,7 +249,7 @@
         "Equipo Afectado": "Sistema de fichaje",
         "Área": "Edificio 2",
         "Descripción": "No funciona el sistema de fichaje",
-        "Acciones Previas": "No",
-        "Nivel de Urgencia": "Muy Urgente"
+        "Nivel de Urgencia": "Muy Urgente",
+        "Acciones Previas": "No"
     }
 ]

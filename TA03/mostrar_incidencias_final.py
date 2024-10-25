@@ -5,6 +5,12 @@ from colorama import Fore, init
 # Inicializar colorama
 init(autoreset=True)
 
+def ajustar_texto(texto, max_length):
+    """Recorta el texto si excede max_length, añadiendo '...' al final."""
+    if len(texto) > max_length:
+        return texto[:max_length - 3] + '...'  # 3 caracteres para '...'
+    return texto
+
 def mostrar_incidencias(xml_file, json_file):
     # Parsear el archivo XML
     tree = ET.parse(xml_file)
@@ -35,15 +41,15 @@ def mostrar_incidencias(xml_file, json_file):
 
     # Extraer datos de la incidencia
     for incidencia in root.findall('Incidencia'):
-        email = incidencia.find('InfoClient/Email').text
-        nombre_apellidos = incidencia.find('InfoClient/NombreyApellidos').text
-        fecha_incidencia = incidencia.find('InfoIncidencia/Fecha/fechaincidencia').text
-        tipo = incidencia.find('InfoIncidencia/Detalles/Tipo').text
-        equipo_afectado = incidencia.find('InfoIncidencia/Detalles/EquipoAfectado').text
-        area = incidencia.find('InfoIncidencia/Detalles/Área').text
-        descripcion = incidencia.find('InfoIncidencia/Detalles/DescripciónProblema').text
-        nivel_urgencia = incidencia.find('InfoIncidencia/NivelUrgéncia').text
-        acciones_previas = incidencia.find('InfoIncidencia/AccionesPrevias').text
+        email = incidencia.find('InfoClient/Email').text or "N/A"
+        nombre_apellidos = incidencia.find('InfoClient/NombreyApellidos').text or "N/A"
+        fecha_incidencia = incidencia.find('InfoIncidencia/Fecha/fechaincidencia').text or "N/A"
+        tipo = incidencia.find('InfoIncidencia/Detalles/Tipo').text or "N/A"
+        equipo_afectado = incidencia.find('InfoIncidencia/Detalles/EquipoAfectado').text or "N/A"
+        area = incidencia.find('InfoIncidencia/Detalles/Área').text or "N/A"
+        descripcion = incidencia.find('InfoIncidencia/Detalles/DescripciónProblema').text or "N/A"
+        nivel_urgencia = incidencia.find('InfoIncidencia/NivelUrgéncia').text or "N/A"
+        acciones_previas = incidencia.find('InfoIncidencia/AccionesPrevias').text or "N/A"
 
         # Definir color para el nivel de urgencia
         if nivel_urgencia == "Muy Urgente":
@@ -53,8 +59,8 @@ def mostrar_incidencias(xml_file, json_file):
         else:
             nivel_color = Fore.GREEN
 
-        # Imprimir los datos de cada incidencia
-        data_row = "".join(f"{Fore.WHITE}{data:<{col_widths[i]}}" for i, data in enumerate([
+        # Imprimir los datos de cada incidencia, ajustando el texto
+        data_row = "".join(f"{Fore.WHITE}{ajustar_texto(data, col_widths[i]):<{col_widths[i]}}" for i, data in enumerate([
             email, nombre_apellidos, fecha_incidencia, tipo, equipo_afectado,
             area, descripcion, acciones_previas
         ]))
