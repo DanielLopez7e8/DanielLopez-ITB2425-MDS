@@ -6,6 +6,6 @@
 <body>
 
     <h1>Esto es el encabezado</h1>
-    <p>Esto será un paragrafo</p>
+    <h2>subtitulo</h2>
 </body>
 </html>
