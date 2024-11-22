@@ -123,13 +123,13 @@ section2 {
 
 h1.under {
     text-decoration: underline; 
-    font-family: 'Copperplate', 'Georgia', serif; 
+    font-family: 'Maven Pro', sans-serif; 
     font-weight: bold;
     text-transform: uppercase; 
     margin: 1;
-    font-size: 52px;
+    font-size: 62px;
     padding-top: 1px; /* Asegura que el texto no se superponga con el logo */
-    padding-left: 195px;
+    padding-left: 194px;
 }
 
 
