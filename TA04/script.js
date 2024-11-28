@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
             document.title = "¡No te vayas!:(";
         } else {
             // Restaurar el título original cuando la página vuelve a ser visible
-            document.title = "HOME";
+            document.title = "HOME😤";
         }
     });
 });
