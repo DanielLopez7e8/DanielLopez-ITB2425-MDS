@@ -132,6 +132,16 @@ h1.under {
     padding-left: 194px;
 }
 
+p.underover {
+    text-decoration: underline overline;  
+    font-family: 'Maven Pro', sans-serif; 
+    font-weight: bold;
+    text-transform: uppercase; 
+    margin: 1;
+    font-size: 62px;
+    padding-top: 1px; /* Asegura que el texto no se superponga con el logo */
+    padding-left: 194px;
+}
 
 #primer_imagen {
     width: 100%;

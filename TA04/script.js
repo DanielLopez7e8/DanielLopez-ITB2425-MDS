@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
     document.addEventListener("visibilitychange", function() {
         if (document.hidden) {
             // Cambiar el título cuando la página no es visible
-            document.title = "¡No te vayas :(";
+            document.title = "¡No te vayas!:(";
         } else {
             // Restaurar el título original cuando la página vuelve a ser visible
             document.title = "HOME";
